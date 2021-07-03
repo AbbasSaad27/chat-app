@@ -1,0 +1,43 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media only screen and (min-width: 1440px) {
+  html {
+    font-size: 65%;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  html {
+    font-size: 60%;
+  }
+}
+@media only screen and (max-width: 875px) {
+  html {
+    font-size: 58%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  html {
+    font-size: 55%;
+  }
+}
+@media only screen and (max-width: 300px) {
+  html {
+    font-size: 50%;
+  }
+}

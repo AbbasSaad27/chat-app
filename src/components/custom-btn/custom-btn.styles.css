@@ -1,0 +1,29 @@
+.btn {
+  border: none;
+  padding: 2rem;
+  font-size: 1.4rem;
+  width: 70%;
+  cursor: pointer;
+  font-weight: 700;
+}
+.faceBook {
+  background-color: rgb(112, 112, 194);
+  margin-top: 1.5rem;
+  box-shadow: 0rem 0rem 2rem 0.1rem rgba(255, 255, 255, 0.1);
+}
+.google {
+  background-color: white;
+  margin-top: 1.5rem;
+  box-shadow: 0rem 0rem 2rem 0.1rem rgba(255, 255, 255, 0.1);
+}
+.ui-btn {
+  width: 30%;
+  background-color: #2f3444;
+  color: white;
+}
+.ui-btn-top {
+  border-top-right-radius: 1rem;
+}
+.ui-btn-bottom {
+  border-bottom-right-radius: 1rem;
+}
